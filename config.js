@@ -57,7 +57,7 @@ module.exports = {
       // Add API keys here if needed
       openai: '',
       deepai: '',
-      remove_bg: ''
+      remove_bg: 'icrcS74XeFYZDJKunMz2W2xs'
     },
     
     // Message Configuration
